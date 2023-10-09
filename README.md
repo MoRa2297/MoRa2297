@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Nome Cognome - Sviluppatore Software
+# Manuel Morandin - Software Developer
 
 Benvenuti nel mio profilo GitHub! Sono Nome Cognome, uno sviluppatore software appassionato e creativo con una passione per la scrittura di codice e la risoluzione di problemi complessi.
 
