@@ -20,8 +20,8 @@ My toolbox includes:
 Feel free to reach out:
 
 - ✉️ **Email**: manuel.morandin@gmail.com
-- 💼 **LinkedIn**: [My LinkedIn Profile]((https://www.linkedin.com/in/manuel-morandin-developer/))
-- 🌐 **Website**: [www.moracodes.dev]((https://moracodes.dev/))
+- 💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/manuel-morandin-developer/)
+- 🌐 **Website**: [www.moracodes.dev](https://moracodes.dev/)
 
 ---
 
