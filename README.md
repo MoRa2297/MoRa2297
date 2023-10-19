@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Manuel Morandin - Software Developer
+# 👋 Hello, I'm Manuel Morandin - Web/App Developer
 
-Welcome to my GitHub profile! I'm Manuel Morandin, a passionate and creative software developer with a love for writing code and solving complex problems. 💻
+Welcome to my GitHub profile! I'm Manuel Morandin, a passionate web/app developer. 💻
 
 ## 🚀 Who I Am
 
@@ -10,10 +10,10 @@ A bit about me: I'm on a journey to create amazing software solutions and embrac
 
 My toolbox includes:
 
-- Languages: JavaScript, Python
-- Web Technologies: HTML5, CSS3, React, react-native
+- Languages: JavaScript, Node, PHP
+- Web Technologies: HTML5, CSS3, React, react-native, Next.js, Gatsby.js, 
 - Databases: SQL, MongoDB, Postgres
-- Tools: Git, Docker, Xano, Bubble, Xcode, Android Studio
+- Tools: Git, Docker, Xano, Bubble, Xcode, Android Studio, AWS, Supabase, Netlify 
 
 ## 📫 Contact
 
