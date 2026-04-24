@@ -141,7 +141,7 @@ just with propellers.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MoRa2297&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MoRa2297&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
 <img height="180" src="https://streak-stats.demolab.com?user=MoRa2297&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" />
 
 <br/>
