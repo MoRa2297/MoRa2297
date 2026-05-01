@@ -14,7 +14,7 @@
 
 <!-- Live badges -->
 <a href="https://www.linkedin.com/in/manuel-morandin-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/manuel.morandin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/mora2297/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:manuel.morandin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://moracodes.dev/"><img src="https://img.shields.io/badge/moracodes.dev-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=MoRa2297&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
@@ -194,7 +194,7 @@ I'm always up for a chat about **distributed systems**, **AI-assisted engineerin
 
 [![Email](https://img.shields.io/badge/manuel.morandin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.morandin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Manuel%20Morandin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-morandin-developer/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manuel.morandin/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mora2297/)
 [![Website](https://img.shields.io/badge/moracodes.dev-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://moracodes.dev/)
 
 </div>
